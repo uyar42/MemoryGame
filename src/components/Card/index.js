@@ -5,10 +5,7 @@ import {
   cardSelector,
   isFlipped,
   incrementScore,
-  scoreSelector,
   founded,
-  foundsSelector,
-  // incrementScore,
 } from "../../redux/cardSlice";
 
 function Card() {
