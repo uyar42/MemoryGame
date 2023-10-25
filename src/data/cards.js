@@ -66,7 +66,7 @@ export const cards = [
   {
     id: nanoid(),
     name: "Grandpa Max",
-    img: "https://imgix.ranker.com/user_node_img/3832/76621483/original/heatblast-tv-characters-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=150&w=150",
+    img: "https://imgix.ranker.com/user_node_img/824/16479570/original/grandpa-max-film-characters-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=150&w=150",
     isItTurned: false,
   },
   {
@@ -89,8 +89,8 @@ export const cards = [
   },
   {
     id: nanoid(),
-    name: "heatblast",
-    img: "https://imgix.ranker.com/user_node_img/824/16479570/original/grandpa-max-film-characters-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=150&w=150",
+    name: "Heatblast",
+    img: "https://imgix.ranker.com/user_node_img/3832/76621483/original/heatblast-tv-characters-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=150&w=150",
     isItTurned: false,
   },
   {
